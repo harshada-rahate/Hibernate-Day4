@@ -18,3 +18,12 @@ This project demonstrates the use of Hibernate Query Language (HQL) with Java an
 - Database Connectivity using Hibernate
 
 ## Project Structure
+## Learning Outcomes
+- Hibernate Configuration
+- SessionFactory and Session Management
+- HQL Queries
+- CRUD Operations
+- Database Mapping
+
+## Author
+Harshada Rahate
